@@ -1,6 +1,9 @@
 <p align="center">
+  <a href="https://roadmap.sh">
+    <img src="https://roadmap.sh/card/wide/648366b387dba407712496cd?variant=dark" alt="roadmap.sh" width="49.5%"/>
+  </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NuIIX&layout=compact&theme=dark" style="width: 100%; max-width: 600px;"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NuIIX&layout=compact&theme=dark" alt="Top Langs" width="34%"/>
   </a>
 </p>
 
