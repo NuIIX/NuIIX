@@ -14,9 +14,6 @@
 
 <p>
   <a href="https://t.me/NUIIXXX" target="blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
-  <!-- TODO: подставь свой юзернейм вместо твой_юзернейм и верни бейдж LinkedIn:
-  <a href="https://linkedin.com/in/твой_юзернейм" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  -->
   <a href="https://github.com/NuIIX?tab=repositories"><img src="https://img.shields.io/badge/Repositories-NuIIX-30363d?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" /></a>
   <img src="https://komarev.com/ghpvc/?username=NuIIX&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
 </p>
@@ -155,15 +152,6 @@ timeline
 
 <a id="projects"></a>
 <h2 align="center">Проекты</h2>
-
-<p align="center">
-  <a href="https://github.com/NuIIX/NeuralIDOR-Det">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NuIIX&repo=NeuralIDOR-Det&theme=tokyonight&hide_border=true&border_radius=12" width="49%" alt="NeuralIDOR-Det" />
-  </a>
-  <a href="https://github.com/NuIIX/obsidian-semantic-gardener">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NuIIX&repo=obsidian-semantic-gardener&theme=tokyonight&hide_border=true&border_radius=12" width="49%" alt="obsidian-semantic-gardener" />
-  </a>
-</p>
 
 <div align="center">
 
