@@ -201,6 +201,13 @@ timeline
   <sub>Часть проектов приватна: ML-прогнозирование, FastAPI-сервисы, Flutter-приложения. Детали по запросу.</sub>
 </p>
 
+<h2 align="center">Open Source Contributions</h2>
+<div align="center">
+  
+  [InlitX/GymMane](https://github.com/InlitX/GymMane) — Popular offline-first workout & nutrition tracker (Flutter / Dart / SQLite)
+  
+</div>
+
 <a id="analytics"></a>
 <h2 align="center">Статистика</h2>
 
